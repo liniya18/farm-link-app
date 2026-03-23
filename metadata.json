@@ -1,0 +1,7 @@
+{
+  "name": "FarmLink",
+  "description": "A direct-to-consumer marketplace connecting farmers with fresh produce buyers, eliminating middlemen and increasing farmer profits.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
